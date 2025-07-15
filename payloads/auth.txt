@@ -1,0 +1,1 @@
+admin\n' OR 1=1\nweaktoken
