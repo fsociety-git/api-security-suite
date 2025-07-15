@@ -1,0 +1,17 @@
+auth:
+  url: https://api.example.com/auth
+  jwt: eyJhbGciOiJub25lIn0.eyJzdWIiOiJ1c2VyIn0.
+injection:
+  endpoint: https://api.example.com/search
+  param: q
+rate_limit:
+  url: https://api.example.com/rate
+  attempts: 20
+cors:
+  url: https://api.example.com
+  origins: payloads/origins.txt
+data_exposure:
+  endpoint: https://api.example.com/data
+fuzz:
+  endpoint: https://api.example.com/fuzz
+  payloads: payloads/fuzz.txt
