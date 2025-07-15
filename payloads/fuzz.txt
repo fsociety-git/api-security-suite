@@ -1,0 +1,1 @@
+AAAA\n<script>alert(1)</script>\n../../../../etc/passwd
