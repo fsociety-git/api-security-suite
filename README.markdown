@@ -17,7 +17,7 @@ Advanced Python toolkit for API security testing, covering OWASP API Top 10 and 
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/api-security-testing-suite.git
+git clone https://github.com/fsociety-git/api-security-testing-suite.git
 cd api-security-testing-suite
 pip install -r requirements.txt
 ```
